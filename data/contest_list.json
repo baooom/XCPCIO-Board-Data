@@ -100,6 +100,26 @@
         }
     },
     "provincial-contest":{
+        "2019":{
+            "sdcpc":{
+                "config":{
+                    "contest_name":"The 10th Shandong Provincial Collegiate Programming Contest",
+                    "end_time":1556787600,
+                    "frozen_time":3600,
+                    "start_time":1556769600
+                },
+                "link":"/provincial-contest/2019/sdcpc"
+            },
+            "sxcpc":{
+                "config":{
+                    "contest_name":"The 2019 ICPC China Shaanxi Provincial Programming Contest",
+                    "end_time":1559466000,
+                    "frozen_time":3600,
+                    "start_time":1559448000
+                },
+                "link":"/provincial-contest/2019/sxcpc"
+            }
+        },
         "2020":{
             "zjcpc":{
                 "config":{
