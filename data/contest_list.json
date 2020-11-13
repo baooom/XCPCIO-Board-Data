@@ -168,6 +168,15 @@
             }
         },
         "2020":{
+            "jscpc":{
+                "config":{
+                    "contest_name":"2020ICPC 江西省大学生程序设计竞赛热身赛",
+                    "end_time":1605348000,
+                    "frozen_time":0,
+                    "start_time":1605337200
+                },
+                "link":"/provincial-contest/2020/jscpc"
+            },
             "zjcpc":{
                 "config":{
                     "contest_name":"The 17th Zhejiang Provincial Collegiate Programming Contest Sponsored by TuSimple",
