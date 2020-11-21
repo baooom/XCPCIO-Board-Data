@@ -148,7 +148,7 @@
                 "config":{
                     "contest_name":"2020 ICPC·小米邀请赛 决赛热身赛",
                     "end_time":1605945600,
-                    "frozen_time":3600,
+                    "frozen_time":900,
                     "start_time":1605942000
                 },
                 "link":"/icpc/2020/xiaomi-warmup"
