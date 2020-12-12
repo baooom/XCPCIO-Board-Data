@@ -117,6 +117,24 @@
                 },
                 "link":"/icpc/2020/practice-contest"
             },
+            "shanghai":{
+                "config":{
+                    "contest_name":"第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（上海）",
+                    "end_time":1607846400,
+                    "frozen_time":3600,
+                    "start_time":1607828400
+                },
+                "link":"/icpc/2020/shanghai"
+            },
+            "shanghai-warmup":{
+                "config":{
+                    "contest_name":"第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（上海）（热身赛）",
+                    "end_time":1607776200,
+                    "frozen_time":0,
+                    "start_time":1607770800
+                },
+                "link":"/icpc/2020/shanghai-warmup"
+            },
             "xiaomi":{
                 "config":{
                     "contest_name":"2020 ICPC·小米邀请赛 决赛",
